@@ -9,3 +9,5 @@ You’ll learn how to:
 - Deploy your app to the web using **Vercel**
 
 Perfect for developers looking to sharpen their full-stack skills with real-world functionality.
+Note: app folder is in zip format. Extract it to use it properly
+
